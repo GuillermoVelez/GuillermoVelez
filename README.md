@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: GuillermoVélez](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-velez-segura/)](https://www.linkedin.com/in/guillermo-velez-segura/)
+[![Linkedin: GuillermoVelez](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-velez-segura/)](https://www.linkedin.com/in/guillermo-velez-segura/)
 [![GitHub GuillermoVelez](https://img.shields.io/github/followers/GuillermoVelez?label=follow&style=social)](https://github.com/GuillermoVelez)
 
 
