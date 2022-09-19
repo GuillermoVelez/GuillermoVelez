@@ -8,14 +8,33 @@
 [![GitHub GuillermoVelez](https://img.shields.io/github/followers/GuillermoVelez?label=followers&style=social)](https://github.com/GuillermoVelez)
 <br/>  
 
+## Un poco más sobre mi...   <img src="https://media.giphy.com/media/Jlys8jzFoI8ne/giphy.gif" width="50">
 
 
-## Mis habilidades 
-<table><tr><td valign="top" width="33%">
+- 🔭 Actualmente no estoy trabajando en ningún proyecto
+  
+
+- 🌱 Estoy aprendiendo sobre AWS, Contenedores y Kubernetes  
+  
+
+- ❓ Pregúnteme sobre cualquier cosa relacionada con AWS y tecnologías relacionadas
+  
+
+- ⚡ Fun fact: A veces se me olvida usar el tabulador :(
 
 
+##  Mis habilidades   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+<table>
+    <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>More</th>
+  </tr>
+  <tr>
 
-### Frontend  
+  <td valign="top" width="33%">
+
+ 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -29,8 +48,6 @@
 </td><td valign="top" width="33%">
 
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -42,9 +59,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### More  
+ 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -62,14 +77,35 @@
 
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Un poco más sobre mi...  
+
+<div align="center">
+<br/>  
 
 
-### Languages
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Profile Stats</th>
+  </tr>
+  <tr><td valign="top" width="33%">
+
+<div align="center">  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoVelez&langs_count=10&theme=tokyonight&layout=compact" alt="GuillermoVelez :: Top Langs" /></p>
+</div>
 
-### Profile Stats
+</td><td valign="top" width="33%">
+  
+<div align="center">  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillermoVelez&show_icons=true&theme=tokyonight" alt="GuillermoVelez :: Profile Stats" /></p>
+</div>
+ </td></tr></table>
+</div>
+
+
+
+
+
+
 
 
 <img src="https://media.giphy.com/media/5c4cHATt717ZAN9gbc/giphy.gif" width="60"> <em><b>Si has llegado hasta aquí es que piensas que puedo ayudarte en algo. No dudes en contactarme, hablemos. Estaré encantado de resolverte cualquier duda :)</b> </em>
