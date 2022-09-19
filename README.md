@@ -1,5 +1,5 @@
 <h2> Hola, soy Guillermo Vélez! <img src="https://media.giphy.com/media/MxYQrB9jeGzza/giphy.gif" width="50"></h2>
-<img align='right' float='right' src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="230" style="margin-left: 20 px">
+<img align='right' float='right' src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="230" style='margin-left:20px'>
 <p align="justify" clear="both"><em>Estudiante de últimos semestres de ingeniería de sistemas en la <a href="https://www.udistrital.edu.co/inicio">Universidad Distrital Francisco José de Caldas</a> Con un amplia experiencia en diversas áreas de la ingenieria de sistemas como las telecomunicaciones, administración de sistemas operativos, desarrollo de aplicaciones y portales web; además de tener conocimientos básicos relacionados con la infraestructura en la nube .
 </em></p>
 
