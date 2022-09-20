@@ -17,7 +17,7 @@
 - 🌱 Estoy aprendiendo sobre AWS, Contenedores y Kubernetes  
   
 
-- ❓ Pregúnteme sobre cualquier cosa relacionada con AWS y tecnologías relacionadas
+- ❓ Pregúnteme sobre cualquier cosa relacionada con AWS y sus servicios fundamentales
   
 
 - ⚡ Fun fact: A veces se me olvida usar el tabulador :(
